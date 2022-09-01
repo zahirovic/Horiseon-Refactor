@@ -2,7 +2,7 @@
 
 ## Description
 
-I refactored the Horiseon website to make the code more accessible. I added alt image text in the HTML, aded an appropriate title, and cleared up unnecessary code that could be addded to CSS instead. This helps if an image breaks or someone using a screen reader for assistance in toggling through a website. Through this activity I got more comfortable with HTML and CSS and how to add accessible features to my code. 
+I refactored the Horiseon website to make the code more accessible. I added alt image text in the HTML, added an appropriate title, and cleared up unnecessary code that could be addded to CSS instead. This helps if an image breaks or someone using a screen reader for assistance in toggling through a website. Through this activity I got more comfortable with HTML and CSS and how to add accessible features to my code. 
 
 ## Installation
 
