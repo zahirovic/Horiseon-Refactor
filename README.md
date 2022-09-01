@@ -21,9 +21,11 @@ This website was created to practice the following skills:
 
 ##### The work done can be found the GitHub repository [zahirovic/Horiseon-Refactor](https://github.com/zahirovic/Horiseon-Refactor)
 - The actual product can be found [here](https://zahirovic.github.io/Horiseon-Refactor/) and should look along the lines of this depending on device screen size:
-```md 
+
+
 ![Horiseon website example](assets/images/horiseon-screenshot.png)
-```
+
+
 
 ## Credits
 
@@ -35,5 +37,5 @@ This website was created to practice the following skills:
 ## Features
 
 - HTML alt image text
-- HTML title image text 
+- HTML/CSS alt title image text 
 
