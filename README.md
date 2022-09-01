@@ -11,11 +11,11 @@ N/A
 ## Usage 
 
 This website was created to practice the following skills:
+- CSS
+- HTML
 - Alt image text
 - HTML/CSS commmenting
 - CSS sequencing 
-- CSS
-- HTML
 - Deployment to GitHub Pages
 - Using Markdown to write a README
 
@@ -24,8 +24,10 @@ This website was created to practice the following skills:
 - [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram) on GitHub for the starter code 
 - [Markdown Tutorial](https://www.markdowntutorial.com/) for help on basic markdown 
 - [W3 Schools HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Stackoverflow Forum on how to add alt text to CSS] (https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute)
 
 ## Features
 
 - HTML alt image text
+- HTML title image text 
 
